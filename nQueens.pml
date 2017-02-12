@@ -1,4 +1,4 @@
-#define N 8
+#define N 6
 int result[N];
 bool a[N];
 bool b[2*N-1];
